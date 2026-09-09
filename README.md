@@ -1,2 +1,2 @@
-# Administraci-n-de-BD-1
-En este proyecto saneo un fichero con datos corruptos mediante comandos con la shell y exceel, cargo los datos a la BD, optimizo el rendimiento de la BD y acceso a la bd mediante phpMyAdmin
+#BD_Admin_Part1
+In this project, I clean a corrupted data file using shell commands and Excel, load the data into the database, optimize database performance, and manage database access via phpMyAdmin.
